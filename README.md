@@ -2,7 +2,7 @@
 
 # Build a Social Network With Django – Part 1/4
 
-## Article by [Martin Breuss](https://github.com/martin-martin)
+## Article by [Martin Breuss](https://github.com/martin-martin) (version PT-BR)
 
 ### Table of Contents
 
