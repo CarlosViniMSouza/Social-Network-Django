@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Prox. Topico: Perfis para conexoes de usuario a usuario"
+git commit -m "summary.html -> concluded"
 git push
 git status
 clear
