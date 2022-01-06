@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Server Django in operation | database ok"
+git commit -m "Prox. Topico: Crie usuários para seu aplicativo"
 git push
 git status
 clear
