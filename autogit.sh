@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Prox. Topico: Crie usuários para seu aplicativo"
+git commit -m "Prox. Topico: Exibir informações de perfil"
 git push
 git status
 clear
