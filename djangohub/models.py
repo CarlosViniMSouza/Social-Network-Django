@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
+from django.dispatch import receiver
 
 
 class Profile(models.Model):
@@ -13,6 +14,7 @@ class Profile(models.Model):
         return self.user.username
 
 
+@receiver(post_save, sender=User)
 def create_profile(sender, instance, created, **kwargs):
     if created:
         user_profile = Profile(user=instance)
@@ -22,4 +24,4 @@ def create_profile(sender, instance, created, **kwargs):
         # It’s time to check out Django’s documentation on many-to-many relationships:
 
 # Create a Profile for each new user.
-post_save.connect(create_profile, sender=User)
+# Remove: post_save.connect(create_profile, sender=User)

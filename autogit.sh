@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Prox. Topico: Refatore seu código usando um decorador | models.py -> alts add"
+git commit -m "Conclusao -> add | models.py -> alts add | Part1 -> finished"
 git push
 git status
 clear
