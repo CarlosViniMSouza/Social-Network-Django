@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Conclusao -> add | models.py -> alts add | Part1 -> finished"
+git commit -m "conclusion.js -> add | summary.html -> removed"
 git push
 git status
 clear
