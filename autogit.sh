@@ -1,5 +1,5 @@
 git add -A
-git commit -m "conclusion.js -> add | summary.html -> removed"
+git commit -m "README.MD -> update | base.html -> add"
 git push
 git status
 clear
