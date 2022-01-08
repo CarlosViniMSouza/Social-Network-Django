@@ -18,4 +18,4 @@ alert('Conclusao \n' +
     '   ° Interligar páginas de seu aplicativo usando URLs dinâmicos \n' +
     'Você aprendeu como lidar com as diferentes etapas que você precisa seguir para cada página que deseja exibir usando Django, incluindo como configurar o roteamento, visualizações e modelos para ela. \n' +
     'Você também aprendeu como aplicar o estilo CSS de uma estrutura CSS em seu aplicativo Django para melhorar a experiência do usuário com uma interface que parece agradável. \n' +
-    'Você pode baixar o código que você deve ter ao final desta parte do seu projeto clicando no link abaixo e indo para a pasta source_code_final/: ')
+    'Você pode baixar o código que você deve ter ao final desta parte do seu projeto clicando no link abaixo e indo para a pasta source_code_final/:')

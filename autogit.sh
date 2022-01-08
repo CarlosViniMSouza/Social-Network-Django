@@ -1,5 +1,5 @@
 git add -A
-git commit -m "profile.html -> finished | profile_list.html -> finished"
+git commit -m "conclusion.js -> alts add"
 git push
 git status
 clear
