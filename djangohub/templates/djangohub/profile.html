@@ -15,7 +15,7 @@
 <div class="column is-one-third">
 
   <div class="block">
-    <a href="#">
+    <a href="{% url 'djangohub:profile_list' %}">
       <button class="button is-dark is-outlined is-fullwidth">
         All Profiles
       </button>
@@ -31,7 +31,9 @@
         {% for following in profile.follows.all %}
         <li>
           <a href="#">
-            {{ following }}
+            <a href="{% url 'djangohub:profile' following.id %}">
+              {{ following }}
+            </a>
           </a>
         </li>
         {% endfor %}
@@ -48,7 +50,9 @@
         {% for follower in profile.followed_by.all %}
         <li>
           <a href="#">
-            {{ follower }}
+            <a href="{% url 'djangohub:profile' follower.id %}">
+              {{ follower }}
+            </a>
           </a>
         </li>
         {% endfor %}

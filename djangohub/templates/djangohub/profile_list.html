@@ -35,3 +35,17 @@
 </div>
 
 {% endblock content %}
+
+{% for profile in profiles %}
+
+<div class="block">
+  <div class="card">
+    <a href="{% url 'djangohub:profile' profile.id %}">
+      <div class="card-content">
+        <!-- ... More card code -->
+      </div>
+    </a>
+  </div>
+</div>
+
+{% endfor %}

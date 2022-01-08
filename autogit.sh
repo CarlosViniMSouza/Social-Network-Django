@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Next Topic: Link the Profile Pages | profile.html -> add | views.py and urls.py -> alts add"
+git commit -m "profile.html -> finished | profile_list.html -> finished"
 git push
 git status
 clear
