@@ -1,5 +1,5 @@
 git add -A
-git commit -m "conclusion.js -> alts add"
+git commit -m "introduction.js -> alts add | Part3 parcialmente bloqueada pela Real Python"
 git push
 git status
 clear
