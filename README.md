@@ -1,6 +1,6 @@
 ![logo_RealPython](https://raw.githubusercontent.com/CarlosViniMSouza/Article-Prettify_DataStructure/master/translation/images/logo_RealPython.webp)
 
-# Build a Social Network With Django – Part 2/4
+# Build a Social Network With Django – Part 3/4
 
 ## Article by [Martin Breuss](https://github.com/martin-martin) (version PT-BR)
 
@@ -45,6 +45,27 @@
 ° Step 6: Access Individual Profile Pages
     ° Build a Profile Page Template
     ° Link the Profile Pages
+° Conclusion
+° Next Steps for Your Basic Social Network With Django
+```
+
+### Table of Contents - 3/4
+
+```
+Table of Contents
+
+° Demo
+° Project Overview
+° Prerequisites
+° Step 7: Follow and Unfollow Other Profiles
+    ° Add Buttons to Your Profiles
+    ° Handle POST Requests in Django Code Logic
+° Step 8: Create the Back-End Logic for Dweets
+    ° Make the Model
+    ° Add Dweets Through the Admin Interface
+° Step 9: Display Dweets on the Front End
+    ° Display Personal Dweets on Each Profile Page
+    ° Create a Dashboard View
 ° Conclusion
 ° Next Steps for Your Basic Social Network With Django
 ```

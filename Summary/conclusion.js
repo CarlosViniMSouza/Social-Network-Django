@@ -19,3 +19,29 @@ alert('Conclusao \n' +
     'Você aprendeu como lidar com as diferentes etapas que você precisa seguir para cada página que deseja exibir usando Django, incluindo como configurar o roteamento, visualizações e modelos para ela. \n' +
     'Você também aprendeu como aplicar o estilo CSS de uma estrutura CSS em seu aplicativo Django para melhorar a experiência do usuário com uma interface que parece agradável. \n' +
     'Você pode baixar o código que você deve ter ao final desta parte do seu projeto clicando no link abaixo e indo para a pasta source_code_final/:')
+
+alert('Você está implementando o projeto em uma série de etapas distribuídas em vários tutoriais separados nesta série. ' +
+    'Há muito a cobrir e você entrará em detalhes ao longo do caminho:' +
+
+    '✅ Part 1: Modelos e Relacionamentos' +
+    '° Etapa 1: Configurar o Projeto Base' +
+    '° Etapa 2: Estenda o modelo de usuário Django' +
+    '° Etapa 3: Implementar um Gancho Pós-Salvar' +
+
+    '✅ Part 2: Modelos e estilo de Front-End' +
+    '° Etapa 4: Criar um modelo básico com Bulma' +
+    '° Etapa 5: Listar todos os perfis de usuário' +
+    '° Etapa 6: Acessar páginas de perfis individuais' +
+
+    '📍 Part 3: Segue e Posta' +
+    '° Etapa 7: Seguir e Deixar de Seguir Outros Perfis' +
+    '° Etapa 8: Criar a lógica de Back-End para Dweets' +
+    '° Etapa 9: Exibir Dweets no Front-End' +
+
+    '⏭ Part 4: Formulários e envios' +
+    '° Etapa 10: Enviar Dweets por meio de um formulário Django' +
+    '° Etapa 11: Prevenir Submissões Duplas e Tratar Erros' +
+    '° Etapa 12: Melhorar a experiência do usuário Front-End' +
+
+    'Cada uma dessas etapas fornecerá links para todos os recursos necessários. Ao abordar as etapas uma de cada vez, ' +
+    'você terá a oportunidade de fazer uma pausa e voltar mais tarde, caso queira fazer uma pausa.')
