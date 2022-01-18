@@ -1,5 +1,5 @@
 git add -A
-git commit -m "README.md -> alt | conclusion & intro -> alts add"
+git commit -m "README.md -> update"
 git push
 git status
 clear

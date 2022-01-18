@@ -4,7 +4,7 @@
 
 ## Article by [Martin Breuss](https://github.com/martin-martin) (version PT-BR)
 
-### Table of Contents - 1/4
+### [Table of Contents - 1/4](https://realpython.com/django-social-network-1/)
 
 ```
 ° Demo
@@ -29,7 +29,7 @@
 ° Next Steps for Your Basic Social Network With Django
 ```
 
-### Table of Contents - 2/4
+### [Table of Contents - 2/4](https://realpython.com/django-social-front-end-2/)
 
 ```
 ° Demo
@@ -49,7 +49,7 @@
 ° Next Steps for Your Basic Social Network With Django
 ```
 
-### Table of Contents - 3/4
+### [Table of Contents - 3/4](https://realpython.com/django-social-post-3/)
 
 ```
 Table of Contents
@@ -68,4 +68,26 @@ Table of Contents
     ° Create a Dashboard View
 ° Conclusion
 ° Next Steps for Your Basic Social Network With Django
+```
+
+### [Table of Contents - 4/4](https://realpython.com/django-social-forms-4/)
+
+```
+Table of Contents
+
+° Demo
+° Project Overview
+° Prerequisites
+° Step 10: Submit Dweets Using Django Forms
+    ° Create a Text Input Form
+    ° Render the Form in Your Template
+    ° Make Form Submissions Possible
+° Step 11: Prevent Double Submissions and Handle Errors
+    °Prevent Double Submissions
+    ° Handle Submission Errors
+° Step 12: Improve the Front-End User Experience
+    ° Improve the Navigation
+    ° Sort the Dweets
+° Conclusion
+° Next Steps
 ```
